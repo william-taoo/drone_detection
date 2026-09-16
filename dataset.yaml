@@ -1,0 +1,9 @@
+# Paths are resolved relative to this file.
+path: datasets/drone
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: drone
+

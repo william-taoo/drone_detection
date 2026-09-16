@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+datasets/drone/images/*/*
+datasets/drone/labels/*/*
+!datasets/drone/images/*/.gitkeep
+!datasets/drone/labels/*/.gitkeep
+
